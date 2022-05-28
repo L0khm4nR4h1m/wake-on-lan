@@ -1,4 +1,4 @@
-# wake-on-lan
+# Wake-on-LAN
 Python script for Wake on LAN
 
 
@@ -26,3 +26,6 @@ It also translate the magic packet into human readable Hexadecimal format
 ```bash
 python sniff.py
 ```
+
+References
+

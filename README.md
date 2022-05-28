@@ -6,7 +6,7 @@ Python script for Wake on LAN
 ```bash
 python wakeon.py [<mac address>][<broadcast address>]
 ```
-The first parameter is the MAC address of the targeted device to be woken up.
+The first parameter is the MAC address of the targeted device to be woken up.\n
 The second parameter is IP adress of the targeted device to be woken up.
 Both parameter are optional as if left empty, the program would ask the user to input both the MAC and IP address 
 

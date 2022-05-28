@@ -27,5 +27,6 @@ It also translate the magic packet into human readable Hexadecimal format
 python sniff.py
 ```
 
-References
-
+### References
+https://gist.github.com/rschuetzler/8854764
+https://www.depicus.com/wake-on-lan/wake-on-lan-gui
